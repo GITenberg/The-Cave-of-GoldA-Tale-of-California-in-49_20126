@@ -1,0 +1,29 @@
+_repo: The-Cave-of-GoldA-Tale-of-California-in-49_20126
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McNeil, Everett
+    birthdate: 1862
+    deathdate: 1929
+    gutenberg_agent_id: '9096'
+    url: http://www.gutenberg.org/2009/agents/9096
+description: ''
+gutenberg_bookshelf: Western
+gutenberg_issued: '2006-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Gold discoveries -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Cave of Gold
+
+  A Tale of California in ''49'
+url: http://www.gutenberg.org/ebooks/20126
